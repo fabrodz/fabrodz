@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**fabrodz/fabrodz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> About Me </h2>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg">
+<ul>
+<li>
+<p>🔭 I’m currently working on UnlockCommerce</p>
+</li>
+<li>
+<p>🌱 I’m currently learning Chrome extensions development</p>
+</li>
+<li>
+<p>👯 I’m looking to collaborate on any project</p>
+</li>
+<li>
+<p>💬 Ask me about SQL, JavaScript, Node.js, whatever you want </p>
+</li>
+</ul>
