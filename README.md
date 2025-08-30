@@ -6,7 +6,7 @@
 <p>🔭 I’m currently working on UnlockCommerce</p>
 </li>
 <li>
-<p>🌱 I’m currently learning Chrome extensions development</p>
+<p>🌱 I’m currently learning AI integration + React</p>
 </li>
 <li>
 <p>👯 I’m looking to collaborate on any project</p>
